@@ -1,0 +1,6 @@
+Aquest es un arxiu de text base...lorem ipsum blablabla
+<<<<<<< HEAD
+Canvi per fer commit a branca master
+=======
+Modificat a les 16:08
+>>>>>>> branch1
