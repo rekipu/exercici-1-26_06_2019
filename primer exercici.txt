@@ -1,2 +1,4 @@
 Aquest es un arxiu de text base...lorem ipsum blablabla
 Canvi per fer commit a branca master
+Modificat a les 16:08
+
